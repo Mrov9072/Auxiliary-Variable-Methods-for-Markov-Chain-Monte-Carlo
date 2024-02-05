@@ -1,0 +1,6 @@
+numpy
+statsmodels
+seaborn
+scikit-learn
+pytorch
+tqdm
